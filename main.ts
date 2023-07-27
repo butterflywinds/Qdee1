@@ -275,7 +275,7 @@ namespace qdee1 {
     /**
      * qdee1 initialization, please execute at boot time
     */
-    //% weight=100 blockId=qdee1_Init block="Initialize qdee1"
+    //% weight=100 blockId=qdee1_Init block="Initialize geg"
     //% subcategory=Init
     export function qdee1_Init() {
         qdee1_initRGBLight();
