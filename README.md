@@ -1,6 +1,6 @@
 # qdee
 
-Blocks for Hiwonder Qdee
+Blocks for Hiwonder Qdee1
 
 ## License
 
